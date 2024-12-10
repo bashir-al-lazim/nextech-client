@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Vlip",
+        "shortDescription": "Find everything about a place with short-form videos",
+        "description": "Vlip is a travel social media platform that helps you find accurate & up-to-date information about places through short-form videos, and share snippets of your life with people around the world without social media fatigue.",
+        "tags": [
+            "Android",
+            "Social Media",
+            "Travel"
+        ],
+        "logo": "https://i.ibb.co/Fs4yNgq/Vlip-logo.jpg",
+        "images": [
+            "https://i.ibb.co/m9b1rBg/Vlip-img-4.jpg",
+            "https://i.ibb.co/thjHG3n/Vlip-img-3.jpg",
+            "https://i.ibb.co/k8W590C/Vlip-img2.jpg",
+            "https://i.ibb.co/1TVvySf/Vlip-img1.jpg"
+        ],
+        "upVote": 0,
+        "downVote": 0,
+        "priority": "featured"
+    },
+    {
+        "name": "BookSlice",
+        "shortDescription": "Gamified book reader for busy people",
+        "description": "Turn reading into a fun habit with goal-setting, habit stacking, streaks, and AI-powered assistance. Start your reading adventure today! 🎉",
+        "tags": [
+            "Productivity",
+            "Artificial Intelligence",
+            "Books"
+        ],
+        "logo": "https://i.ibb.co/yVySRhb/book-Slice-logo.png",
+        "images": [
+            "https://i.ibb.co/PW07tP6/book-Slice-img4.jpg",
+            "https://i.ibb.co/C0vjFwp/book-Slice-img3.jpg",
+            "https://i.ibb.co/YbZW2mh/book-Slice-img2.jpg",
+            "https://i.ibb.co/zRZv98t/book-Slice-img1.jpg"
+        ],
+        "upVote": 0,
+        "downVote": 0,
+        "priority": "featured"
+    },
+    {
+        "name": "Artizyou",
+        "shortDescription": "IP protection for creators powered by AI and Blockchain",
+        "description": "Artizyou™ is a solution dedicated to offering creators IP protection and management, utilizing the highest level of artificial intelligence and the legendary safety of Blockchain technology. We are on a mission to protect IPs in the age of AI.",
+        "tags": [
+            "Legal",
+            "Artificial Intelligence",
+            "Blockchain"
+        ],
+        "logo": "https://i.ibb.co/Z2v7qfK/aetizyou-logo-bg-removed1.png",
+        "images": [
+            "https://i.ibb.co/gT7kVN7/artizyou-img4.jpg",
+            "https://i.ibb.co/jZsT8mC/artizyou-img3.jpg",
+            "https://i.ibb.co/r4KSP4B/artizyou-img2.jpg",
+            "https://i.ibb.co/w6kM106/artizyou-img-1.jpg"
+        ],
+        "upVote": 0,
+        "downVote": 0,
+        "priority": "featured"
+    },
+    {
+        "name": "Domain Copilot",
+        "shortDescription": "Track & manage domain names",
+        "description": "Easily track domains you want and manage the domains you own -- on the go!",
+        "tags": [
+            "Productivity",
+            "Branding",
+            "Marketing"
+        ],
+        "logo": "https://i.ibb.co/d4SnNzq/domain-logo.jpg",
+        "images": [
+            "https://i.ibb.co/0cS0wyL/domain-img4.jpg",
+            "https://i.ibb.co/rvWwNsD/domain-img3.jpg",
+            "https://i.ibb.co/MnSp55L/domain-img2.jpg",
+            "https://i.ibb.co/RQj3BFw/domain-img1.jpg"
+        ],
+        "upVote": 0,
+        "downVote": 0,
+        "priority": "featured"
+    },
+    {
+        "name": "Ghostsnote",
+        "shortDescription": "Celebrate the joy of accomplishment",
+        "description": "The #1 marketing subscription for agencies, startups, creators and entrepreneurs. The best service designed to handle the stress, motivate your efforts, and celebrate your successes.",
+        "tags": [
+            "Marketing",
+            "SaaS",
+            "Tech"
+        ],
+        "logo": "https://i.ibb.co/7Kh4cBP/ghost-logo.jpg",
+        "images": [
+            "https: //i.ibb.co/mJ4kbnL/ghost-img5.jpg",
+            "https: //i.ibb.co/61YLc83/ghost-img4.jpg",
+            "https: //i.ibb.co/dLFBySp/ghost-img3.jpg",
+            "https: //i.ibb.co/80zsnHM/ghost-img2.jpg",
+            "https: //i.ibb.co/xgY1VHt/ghost-img1.jpg"
+        ],
+        "upVote": 0,
+        "downVote": 0,
+        "priority": "normal"
+    },
+    {
+        "name": "Kerlig AI",
+        "shortDescription": "AI writing assistant in any app",
+        "description": "Write replies on Slack and Mail using your tone of voice. Fix spelling before sending a message. Summarize websites and articles. Chat with PDFs and documents. Improve copy in Figma. Translate to any language. Change tone and more!",
+        "tags": [
+            "Productivity",
+            "Writing",
+            "Artificial Intelligence"
+        ],
+        "logo": "https://i.ibb.co/ZKdHSdr/kerligai-logo.jpg",
+        "images": [
+            "https://i.ibb.co/Pg2DrX3/kerligai-img4.png",
+            "https://i.ibb.co/ryxdJC8/kerligai-img3.png",
+            "https://i.ibb.co/8MkMQmf/kerligai-img2.png",
+            "https://i.ibb.co/SfRhX0K/kerligai-img1.png"
+        ],
+        "upVote": 0,
+        "downVote": 0,
+        "priority": "normal"
+    }
+]
