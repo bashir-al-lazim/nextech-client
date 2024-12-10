@@ -4,7 +4,6 @@ import { createUserWithEmailAndPassword, onAuthStateChanged, signInWithEmailAndP
 import auth from "../firebase/firebase.config";
 import toast from "react-hot-toast";
 import useAxiosPublic from "../hooks/useAxiosPublic";
-import { GoogleAuthProvider } from "firebase/auth/web-extension";
 
 
 export const AuthContext = createContext(null)
@@ -39,6 +38,13 @@ const AuthProvider = ({ children }) => {
         const unSubscribe = onAuthStateChanged(auth, currentUser => {
             const loggedUser = { email: currentUser?.email || user?.email }
             setUser(currentUser)
+            console.log(currentUser)
+            if (currentUser) {
+                axiosPublic.post('/users', {name: currentUser?.displayName, email: currentUser?.email})
+                .then(res => {
+                    console.log(res.data)
+                })
+            }
 
             if (currentUser) {
                 axiosPublic.post('/jwt', loggedUser)
