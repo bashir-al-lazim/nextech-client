@@ -6,12 +6,12 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA-iQ2ZdNAHZl8ogf7ZVGWSF7vriIBT7g4",
-  authDomain: "nextech-product-hunt.firebaseapp.com",
-  projectId: "nextech-product-hunt",
-  storageBucket: "nextech-product-hunt.appspot.com",
-  messagingSenderId: "548174264854",
-  appId: "1:548174264854:web:97a8a62fed2a40dc759337"
+  apiKey: import.meta.env.VITE_apiKey,
+  authDomain: import.meta.env.VITE_authDomain,
+  projectId: import.meta.env.VITE_projectId,
+  storageBucket: import.meta.env.VITE_storageBucket,
+  messagingSenderId: import.meta.env.VITE_messagingSenderId,
+  appId: import.meta.env.VITE_appId
 };
 
 // Initialize Firebase
