@@ -66,7 +66,7 @@ const Nav = () => {
                         </div>
                         <ul tabIndex={0} className="dropdown-content right-0 z-[1] menu p-2 shadow-md shadow-yellow-400 bg-base-100 rounded-lg min-w-max transition-all">
                             <p className="font-medium mb-2">Hi, <span className="uppercase">{user?.displayName.split(' ')[0]}</span></p>
-                            <li><NavLink to='/dashboard' className={({ isActive }) => isActive ? "bg-base-100 border-[0.1rem] font-medium border-yellow-400 rounded-lg" : "bg-base-100 border-[0.1rem] font-medium border-b-[#898888] hover:border-b-yellow-400 hover:text-yellow-400 border-transparent"}>Dashboard</NavLink></li>
+                            <li><NavLink to='/dashboard/my-profile' className={({ isActive }) => isActive ? "bg-base-100 border-[0.1rem] font-medium border-yellow-400 rounded-lg" : "bg-base-100 border-[0.1rem] font-medium border-b-[#898888] hover:border-b-yellow-400 hover:text-yellow-400 border-transparent"}>Dashboard</NavLink></li>
                             <li><Link onClick={handleSignOut} className="border-[0.1rem] border-b-[#898888] hover:text-yellow-400 hover:border-b-yellow-400 font-medium border-transparent">Logout</Link></li>
                         </ul>
                     </div>}

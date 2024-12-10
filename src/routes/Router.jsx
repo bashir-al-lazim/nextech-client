@@ -8,6 +8,7 @@ import PrivateRoute from "./PrivateRoute";
 import AllUsers from "../components/dashboard/AllUsers";
 import ProductDetails from "../pages/ProductDetails";
 import Products from "../pages/Products";
+import Profile from "../components/dashboard/Profile";
 
 const router = createBrowserRouter([
   {
@@ -43,7 +44,11 @@ const router = createBrowserRouter([
       {
         path: 'users',
         element: <AllUsers></AllUsers>
-      }
+      },
+      {
+        path: 'my-profile',
+        element: <Profile />
+      },
 
     ]
   }
