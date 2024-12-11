@@ -1,8 +1,33 @@
-# React + Vite
+#highlight for instructor : previously I backed up my client and server in private repo that was provided. as it's not accesible anymore. I had upload almost half of the work in this repo. so the commit count is low. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# NexTech - Discover and Share Cutting-Edge Tech Products
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+NexTech is a platform where users can explore, upvote, and review the latest tech products. Whether it's a web app, AI tool, or mobile application, NexTech connects users with innovative tech solutions in one place.
+
+## 🌐 Live Site URL
+[Visit NexTech](https://nextech-product-hunt.web.app/)
+
+---
+
+## 🚀 Features
+
+- **Explore and Discover:** Browse a wide range of tech products, including AI tools, mobile apps, and more.
+- **User Authentication:** Secure login and registration with role-based access (Normal Users, Moderators, Admins).
+- **Interactive Features:** Upvote and review products, report issues, and engage with the tech community.
+- **Product Moderation:** Moderators can approve, reject, and feature products for better content curation.
+- **Subscription Plans:** Users can unlock premium features by subscribing to the membership plan.
+
+---
+
+## 🔧 Technologies Used
+
+- **Frontend:** React.js, TailwindCSS, DaisyUI
+- **Backend:** Node.js, Express.js, MongoDB
+- **Authentication:** Firebase Authentication, JWT
+- **State Management:** Context API
+- **Hosting:** Firebase (Frontend) and Vercel (Backend)
+
+---
+
+Thanks :)
