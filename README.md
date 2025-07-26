@@ -9,7 +9,7 @@ NexTech is a platform where users can explore, upvote, and review the latest tec
 [Visit NexTech](https://nextech-product-hunt.web.app/)
 
 ## 🌐 Github Server URL
-[Visit NexTech Github Server](https://nextech-product-hunt.web.app/](https://github.com/bashir-al-lazim/nextech-server)
+[Visit NexTech Github Server](https://github.com/bashir-al-lazim/nextech-server)
 
 ---
 
